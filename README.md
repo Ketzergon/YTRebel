@@ -10,8 +10,8 @@ Extensión de Chromium que se rebela contra algunas decisiones molestas de YouTu
 |---|---|---|
 | Quitar Recientes | Elimina el shelf "Más recientes / Más relevantes" | Removes the "Latest / Most relevant" shelf |
 | Ocultar Mixes | Esconde playlists y videos tipo Mix | Hides all Mix playlists and videos |
-| Auto-Reload | Recarga si aparece error de contenido | Reloads on content unavailable error |
-| Tab Videos | Canales abren directo en pestaña Videos | Channels open directly on Videos tab |
+| Auto-Reload | Auto recarga la página si aparece el mensaje de "Error de contenido" | Reloads on "Content unavailable" error |
+| Tab Videos | Canales abren directo en pestaña "Videos" | Channels open directly on "Videos" tab |
 
 La interfaz se adapta automáticamente al idioma del navegador (español / inglés).
 
