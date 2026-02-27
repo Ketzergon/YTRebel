@@ -2,7 +2,7 @@
 
 > Toma el control de YouTube. / Take control of YouTube.
 
-Extensión de Chromium que elimina las partes molestas de YouTube.
+Extensión de Chromium que se rebela contra algunas decisiones molestas de YouTube.
 
 ## Features
 
@@ -17,7 +17,7 @@ La interfaz se adapta automáticamente al idioma del navegador (español / ingl�
 
 ## Instalación
 
-1. Descarga el ZIP o clona el repo: `git clone https://github.com/TU_USUARIO/yt-rebel.git`
+1. Descarga el ZIP o clona el repo: `git clone https://github.com/Ketzergon/yt-rebel.git`
 2. Ve a `chrome://extensions`
 3. Activa **Modo desarrollador**
 4. Clic en **"Cargar extensión sin empaquetar"** → selecciona la carpeta
