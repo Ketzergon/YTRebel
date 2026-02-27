@@ -1,0 +1,20 @@
+{
+  "extName":            { "message": "YT Rebel" },
+  "extDescription":     { "message": "Toma el control de YouTube. Quita lo que no quieres ver." },
+  "tagline":            { "message": "// toma el control" },
+
+  "hideRecientesName":  { "message": "QUITAR RECIENTES" },
+  "hideRecientesDesc":  { "message": "Elimina el shelf \"Más recientes / Más relevantes\" del feed" },
+
+  "hideMixesName":      { "message": "OCULTAR MIXES" },
+  "hideMixesDesc":      { "message": "Esconde todas las playlists y videos de tipo Mix" },
+
+  "autoReloadName":     { "message": "AUTO-RELOAD" },
+  "autoReloadDesc":     { "message": "Recarga si aparece el error de \"Contenido no disponible\"" },
+
+  "openVideosTabName":  { "message": "TAB VIDEOS" },
+  "openVideosTabDesc":  { "message": "Al hacer clic en un canal, abre directo en \"Videos\"" },
+
+  "disableAll":         { "message": "desactivar todo" },
+  "enableAll":          { "message": "activar todo" }
+}
